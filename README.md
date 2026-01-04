@@ -29,7 +29,7 @@ This project implements a **Multimodal AI System** to predict real estate prices
 ## 🔧 Setup & Usage
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/Palakfs/Multimodal-Real-Estate-Price-Prediction.git](https://github.com/Palakfs/Multimodal-Real-Estate-Price-Prediction.git)
+    git clone https://github.com/Palakfs/Multimodal-Real-Estate-Price-Prediction.git
     ```
 2.  **Install Requirements:**
     ```bash
